@@ -1,6 +1,6 @@
 #!usr
 # -*- coding: UTF-8 -*-
-# Mod by: iqbalz noobs
+# Mod by: Erwin Maulana
 # team: life of programmer
 
 
